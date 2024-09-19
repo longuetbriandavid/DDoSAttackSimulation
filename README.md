@@ -2,6 +2,7 @@
 
 Ce projet a été réalisé dans le cadre de la première année de Master en informatique.
 
+
 **Objectif du projet :**
 
 Ce projet a pour objectif de comprendre les mécanismes des attaques DDoS en simulant une attaque sur une machine virtuelle. Il est important de rappeler que l'utilisation de telles techniques est contraire à l'éthique et peut entraîner des poursuites judiciaires.
